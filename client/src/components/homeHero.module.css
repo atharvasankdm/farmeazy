@@ -1,0 +1,40 @@
+.heroSection {
+  height: 90vh;
+  width: 100vw;
+}
+
+.heroImage {
+  height: 90%;
+  width: 100%;
+  object-fit: cover;
+}
+.heroInfoContainer {
+  max-width: 600px;
+  position: absolute;
+  top: 30%;
+}
+.heroInfoContainerText {
+  font-size: 40px;
+  color: black;
+  margin-left: 50px;
+}
+
+.heroInfoContainerTextDesc {
+  font-size: 18px;
+  margin-left: 50px;
+  color: gray;
+  margin-top: 20px;
+  font-weight: 400;
+}
+.heroSectionButton {
+  width: 200px;
+  height: 60px;
+  color: green;
+  font-weight: 300;
+  margin: 5px;
+  border: 1px solid lightgray;
+}
+.buttonContainer {
+  margin-left: 50px;
+  margin-top: 50px;
+}

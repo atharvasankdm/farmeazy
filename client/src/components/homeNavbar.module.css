@@ -1,0 +1,27 @@
+.mainNavContainer {
+  height: 80px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: sticky;
+  top: 0;
+}
+
+h1 {
+  color: #86c872;
+  letter-spacing: 1px;
+  margin-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+li {
+  margin-right: 50px;
+  font-size: 18px;
+}

@@ -1,0 +1,14 @@
+.mainListingSection {
+  width: 100%;
+}
+
+.listSection {
+  margin-top: 50px;
+  width: 100%;
+  max-height: 500px;
+  overflow-y: scroll;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
